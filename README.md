@@ -2,4 +2,4 @@
 
 
 
-Projet android de Pokedex fait dans le cadre scolaire 
+Projet android Pokedex: School's project
